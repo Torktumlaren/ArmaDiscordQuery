@@ -1,0 +1,6 @@
+{
+    "token": "YOUR TOKEN HERE",
+    "applicationId": "YOUR BOT APPLICATION ID HERE",
+    "testGuildId": "YOUR GUILD ID FOR TESTING HERE",
+    "serverIpPort": "YOUR IP:PORT COMBO FOR ARMA SERVER HERE"
+}
