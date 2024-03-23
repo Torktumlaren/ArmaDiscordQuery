@@ -13,7 +13,8 @@ A discord bot made for querying playercount on a specific Arma 3 server instance
 * Clone the repository.
 * Open a terminal in the project root directory.
 * Run `npm install`
-* Populate `Config.json` with your own values. This file contains sensitive data, so don't share it!
+* Copy `config-example.json` and rename to `config.json`.
+* Populate `config.json` with your own values. This file contains sensitive data, so don't share it!
 * Run `node deploy-commands.js` in the terminal to upload command metadata to discord.
 
 
